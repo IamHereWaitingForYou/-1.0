@@ -1,0 +1,3 @@
+﻿  CommonString.cpp
+d:\work\code\commonstring\commonstring\commonstring.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+  CommonString.vcxproj -> D:\work\code\CommonString\Debug\CommonString.exe
